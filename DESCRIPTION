@@ -1,0 +1,15 @@
+Package: walkerenvres
+Type: Package
+Title: Hydrologic Utilities for Walker Environmental Research, LLC
+Version: 0.1.0
+Author: Jeff Walker <jeff@walkerenvres.com>
+Maintainer: Jeff Walker <jeff@walkerenvres.com>
+Description: Functions commonly used by Walker Environmental Research, LLC for
+    hydrologic and water quality data analysis
+License: MIT
+LazyData: TRUE
+Imports:
+    lubridate
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
